@@ -1,5 +1,5 @@
 ### **RussianWare - Russian cheat client for Minecraft 1.12.2 Forge**
-You can install it here: https://github.com/hrownsightless/RussianWare/releases/
+You can install it here: https://github.com/d2hv/RussianWare/releases/
 
 **Currently containing such functions:**
 
