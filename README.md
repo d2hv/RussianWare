@@ -24,4 +24,4 @@ _· Hud: ClickGUI, Hud_
 
 Join RussianWare's Discord: [here](https://discord.gg/9nVUyFJf)
 
-The client was developed in early 2022 for sale, but will now be publicly available. Special thanks jub#7449 & larp connoisseur#9538 to help with developing.
+The client was developed in early 2022 for sale, but will now be publicly available. Special thanks jub#7449 & larp connoisseur#9538 for help with developing.
